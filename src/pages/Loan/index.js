@@ -92,7 +92,7 @@ export default function Loan() {
                     behavior: "smooth",
                   });
                   setLoading(false);
-                }, 1000);
+                }, 2000);
               }
             }}
           >
