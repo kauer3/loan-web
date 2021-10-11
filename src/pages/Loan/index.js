@@ -88,7 +88,7 @@ export default function Loan() {
                 setLoading(true);
                 setTimeout(() => {
                   window.scroll({
-                    top: 800,
+                    top: 700,
                     behavior: "smooth",
                   });
                   setLoading(false);
